@@ -1,0 +1,44 @@
+body {
+    width: 100%;
+    margin: 0;
+}
+
+#description {
+    text-align: center;
+    border: 2px black  solid;
+}
+
+.screen {
+    padding-right: 1em;
+
+    border: 2px black  solid;
+}
+
+main {
+    margin: 5%
+}
+
+h1 {
+    text-align: center;
+}
+
+#vs {
+    margin-bottom: 10%;
+}
+
+.button {
+    text-align: center;
+}
+
+#boss {
+    width : 40em;
+    height : 30em;
+    position: absolute;
+}
+
+#player {
+    width : 20em;
+    height : 30em;
+    margin-right: 15em;
+    margin-left: 2em;
+}
